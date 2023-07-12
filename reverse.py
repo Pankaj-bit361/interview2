@@ -5,6 +5,6 @@ def reverse(s):
       str=i+str
     print(str)  
 
-
+ok
 
 reverse("Python is fun")
